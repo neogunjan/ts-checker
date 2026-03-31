@@ -1,0 +1,1 @@
+ts-checker is a library that validates a time series data and detects for any outliers.
